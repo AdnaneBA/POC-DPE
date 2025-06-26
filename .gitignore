@@ -1,0 +1,10 @@
+*.xlsx
+*.csv
+.env
+*.txt
+*.pptx
+*.drawio
+*.prettierrc
+*.pbix
+*.pkl
+*.docx
